@@ -9,3 +9,4 @@ include:
     artifact-name: sofle_studio_left
   - board: sofle_left
     shield: settings_reset
+    
